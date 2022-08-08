@@ -1,2 +1,2 @@
 <?php
-throw new Exception('Test failed!');
+//throw new Exception('Test failed!');
